@@ -1,4 +1,4 @@
-# design-resource
+# design-resource https://github.com/Riva921102/design-resource/edit/master/README.md
 
 A list of tools & resources for designers.
 
